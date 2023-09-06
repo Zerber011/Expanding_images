@@ -1,5 +1,7 @@
 You can exame this project at : 
 
+https://zerber011.github.io/Expanding_images/
+
 
 The project is very simple and aims to expand images, cards on click. 
 Every 'div' in Html containes two classes : 'img' and 'active' and of course class of 'wrapper' 
