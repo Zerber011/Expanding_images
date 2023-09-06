@@ -1,4 +1,4 @@
-You can exame this project at : 
+You can see and exame this project at : 
 
 https://zerber011.github.io/Expanding_images/
 
